@@ -4,3 +4,4 @@ tes tambah file2
 add line 3
 =======
 >>>>>>> parent of 572ff72 (add line2)
+add line 4
